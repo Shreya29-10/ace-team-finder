@@ -1,0 +1,7 @@
+event_name,type,team_size,required_roles,required_skills,date
+CodeSprint 2026,hackathon,4,ML/Data; Frontend/Web; UI-UX,Python; React; Figma,2026-12-12
+HealthTech Ideathon,ideathon,3,ML/Data; Presenter/Research; UI-UX,Python; Pitching; Figma,2026-12-20
+SmartCity IoT Challenge,hackathon,4,IoT/Hardware; Backend; Frontend/Web; ML/Data,ESP32; FastAPI; React; Python,2027-01-10
+FinTech Case Competition,case comp,3,ML/Data; Presenter/Research; Backend,SQL; Market Research; Python,2027-01-18
+GreenTech Innovation Hack,hackathon,5,Backend; Frontend/Web; UI-UX; ML/Data; Presenter/Research,Firebase; React; Figma; Pandas; PPT Design,2027-02-01
+EdTech Build-a-thon,hackathon,4,Frontend/Web; Backend; UI-UX; ML/Data,JavaScript; Node.js; Figma; NLP,2027-02-14

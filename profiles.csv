@@ -1,0 +1,42 @@
+id,name,college,year,skills,experience_level,interests,preferred_role,availability,past_hackathons,visibility
+1,Atharv Joshi,Walchand Sangli,FE,TensorFlow; NLP,Beginner,IoT; Agriculture,ML/Data,Flexible,0,public
+2,Nidhi Jadhav,PICT Pune,FE,Technical Writing; Pitching; PPT Design,Intermediate,Sustainability; Social Impact,Presenter/Research,Evenings,1,public
+3,Shruti Singh,DY Patil Akurdi,SE,HTML/CSS; Streamlit,Beginner,Agriculture; Smart Cities,Frontend/Web,Weekends,1,public
+4,Kunal Rao,Walchand Sangli,BE,Streamlit; React; TypeScript,Intermediate,FinTech; Generative AI,Frontend/Web,Evenings,2,private
+5,Mansi Patil,Ajeenkya DY Patil School of Engineering,TE,TypeScript; React,Beginner,Generative AI; Cybersecurity,Frontend/Web,Weekends,1,public
+6,Dev Pawar,MIT-WPU Pune,BE,HTML/CSS; Tailwind,Beginner,Smart Cities; Generative AI,Frontend/Web,Evenings,0,public
+7,Sneha Joshi,VJTI Mumbai,BE,Prototyping; Wireframing; Canva,Intermediate,Generative AI; Smart Cities,UI-UX,Weekends,3,public
+8,Neha Patil,Walchand Sangli,SE,Node.js; MongoDB,Beginner,Sustainability; Healthcare,Backend,Weekends,0,public
+9,Varun Rao,NMIMS Mumbai,BE,NLP; Scikit-learn; Streamlit,Intermediate,Generative AI; Social Impact,ML/Data,Evenings,3,public
+10,Sakshi More,PICT Pune,TE,Tailwind; TypeScript; Streamlit,Intermediate,FinTech; Cybersecurity,Frontend/Web,Flexible,1,public
+11,Priya Kulkarni,VIT Pune,BE,ESP32; Sensors,Beginner,Gaming; Smart Cities,IoT/Hardware,Weekends,0,private
+12,Yash Pawar,NMIMS Mumbai,SE,Data Visualization; Pandas; Python,Intermediate,EdTech; FinTech,ML/Data,Flexible,2,public
+13,Shruti Iyer,MIT-WPU Pune,TE,Adobe XD; Canva; Figma,Intermediate,Healthcare; Social Impact,UI-UX,Evenings,3,public
+14,Sneha Iyer,PICT Pune,TE,JavaScript; React; Streamlit,Intermediate,IoT; Generative AI,Frontend/Web,Evenings,3,public
+15,Harsh Gupta,PICT Pune,TE,Raspberry Pi; Arduino; Sensors,Intermediate,Cybersecurity; Agriculture,IoT/Hardware,Flexible,2,public
+16,Nikhil Pawar,PICT Pune,TE,HTML/CSS; JavaScript,Beginner,Gaming; Healthcare,Frontend/Web,Evenings,0,public
+17,Nikhil Patil,DY Patil Akurdi,FE,FastAPI; Node.js; MongoDB; REST APIs,Advanced,Smart Cities; Agriculture,Backend,Evenings,6,public
+18,Arjun Deshmukh,DY Patil Akurdi,SE,Prototyping; User Research,Beginner,Social Impact; EdTech,UI-UX,Weekends,1,public
+19,Aarav Kulkarni,PICT Pune,SE,Canva; User Research; Adobe XD,Intermediate,IoT; Gaming,UI-UX,Evenings,1,private
+20,Yash Rao,Symbiosis Pune,SE,Flask; Python; MongoDB,Intermediate,EdTech; Social Impact,Backend,Flexible,2,public
+21,Ananya Singh,Walchand Sangli,TE,Next.js; HTML/CSS; JavaScript,Intermediate,Social Impact; Healthcare,Frontend/Web,Evenings,1,public
+22,Sanket Bhosale,VIT Pune,TE,Public Speaking; Pitching; Technical Writing,Intermediate,Social Impact; Healthcare,Presenter/Research,Weekends,2,public
+23,Aishwarya Shah,Symbiosis Pune,BE,Streamlit; TensorFlow; NLP,Intermediate,Social Impact; Sustainability,ML/Data,Flexible,2,public
+24,Siddharth Singh,PICT Pune,TE,Figma; User Research,Beginner,IoT; Sustainability,UI-UX,Weekends,0,public
+25,Neha Pawar,VJTI Mumbai,BE,ESP32; C/C++,Beginner,EdTech; IoT,IoT/Hardware,Weekends,0,public
+26,Pranav Bhosale,COEP Pune,SE,Tailwind; JavaScript; React,Intermediate,Agriculture; Generative AI,Frontend/Web,Flexible,1,public
+27,Ananya More,Ajeenkya DY Patil School of Engineering,SE,PyTorch; Pandas; Python,Intermediate,EdTech; Sustainability,ML/Data,Weekends,1,private
+28,Pranav Iyer,COEP Pune,BE,Streamlit; Data Visualization; NLP,Intermediate,EdTech; Smart Cities,ML/Data,Weekends,1,public
+29,Kavya Mehta,VIT Pune,TE,Market Research; Public Speaking; Pitching,Intermediate,Cybersecurity; Social Impact,Presenter/Research,Evenings,1,public
+30,Kavya Chavan,Ajeenkya DY Patil School of Engineering,FE,Next.js; TypeScript,Beginner,IoT; Sustainability,Frontend/Web,Flexible,0,public
+31,Divya Bhosale,Ajeenkya DY Patil School of Engineering,FE,Wireframing; User Research; Canva,Intermediate,Healthcare; Social Impact,UI-UX,Flexible,2,public
+32,Siddharth Bhosale,Symbiosis Pune,SE,C/C++; Arduino; Embedded Systems,Intermediate,IoT; Generative AI,IoT/Hardware,Evenings,2,public
+33,Siddharth Deshmukh,VJTI Mumbai,SE,MongoDB; Python; FastAPI,Intermediate,FinTech; Smart Cities,Backend,Flexible,1,public
+34,Tanmay Chavan,Ajeenkya DY Patil School of Engineering,TE,PyTorch; Python,Beginner,Sustainability; Cybersecurity,ML/Data,Evenings,0,public
+35,Atharv Shah,DY Patil Akurdi,TE,Market Research; PPT Design,Beginner,Agriculture; Sustainability,Presenter/Research,Flexible,0,public
+36,Siddharth Nair,Walchand Sangli,FE,Python; Pandas; Scikit-learn,Intermediate,Healthcare; Sustainability,ML/Data,Evenings,1,private
+37,Harsh Patil,DY Patil Akurdi,TE,Streamlit; Scikit-learn; NLP,Intermediate,Agriculture; EdTech,ML/Data,Evenings,3,public
+38,Ishaan Deshmukh,Symbiosis Pune,BE,Firebase; MongoDB,Beginner,Gaming; Healthcare,Backend,Flexible,1,public
+39,Parth Nair,VJTI Mumbai,BE,Python; Scikit-learn,Beginner,Social Impact; Healthcare,ML/Data,Flexible,1,public
+40,Ananya Rao,Symbiosis Pune,FE,REST APIs; Flask; Python,Intermediate,Agriculture; Sustainability,Backend,Weekends,1,public
+41,Shreya Bansode,Ajeenkya DY Patil School Of Engineering ,TE,MongoDB; NLP; Figma; FastAPI; Canva; C/C++; Streamlit; Wireframing,Intermediate,Generative AI; Social Impact; Smart Cities; Sustainability,Backend,Flexible,4,public
